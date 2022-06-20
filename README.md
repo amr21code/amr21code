@@ -8,10 +8,10 @@
 
 |  Circle | No. | Project                                     | Short Description  | Status |     Score    |
 | :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: |
-|--( 6 )--| 24  | ft_transcendence               |                    | 🔒      |
-|--( 5 )--| 23  | Inception                      |                    | 🔒      |
-|--( 5 )--| 22  | webserv                        |                    | 🔒      |
-|--( 5 )--| 22  | ft_irc                         |                    | 🔒      |
+|--( 6 )--| 24  | ft_transcendence               |                    | 🔒      |     / 100 % |
+|--( 5 )--| 23  | Inception                      |                    | 🔒      |     / 100 %  |
+|--( 5 )--| 22  | webserv                        |                    | 🔒      |     / 100 % |
+|--( 5 )--| 22  | ft_irc                         |                    | 🔒      |     / 100 %  |
 |--( 5 )--| 21  | [ft_containers]   | creating containers in C++ | 🔒       |     / 100 % |
 |--( 4 )--| 20  | [CPP Module 08]         | containers, iterators, algorithms| 🔒       |  / 100 % |
 |--( 4 )--| 19  | [CPP Module 07]          | Templates                        | 🔒       |  / 100 % |
@@ -22,7 +22,7 @@
 |--( 4 )--| 14  | [CPP Module 02]          | Ad-hoc polymorphism, overloads   | 🔒       |  / 100 % |
 |--( 4 )--| 13  | [CPP Module 01]          | memory, reference, pointers      | 🔒       |  / 100 % |
 |--( 4 )--| 12  | [CPP Module 00]          | Creating a Class                 | 🔒       |  / 100 % |
-|--( 4 )--| 11  | [NetPractice]      | networking - IP-Masks            | 🔒      | 100 / 100 % |
+|--( 4 )--| 11  | [NetPractice]      | networking - IP-Masks            | 🔒      |  / 100 % |
 |--( 4 )--| 10  | [cub3d]                   | Raycasting 2D -> 3D              | 📝     |     / 100 % |
 |--( 3 )--|  9  | [Philosophers](../../../42_03_philosophers)  | Threads and Processes            | 📝     | --- / 100 % |
 |--( 3 )--|  8  | [minishell](../../../42_03_minishell)        | like a Bash shell                | ✅     |  99 / 100 % |
