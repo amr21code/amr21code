@@ -13,15 +13,15 @@
 |--( 5 )--| 22  | webserv                        |                    | 🔒      |
 |--( 5 )--| 22  | ft_irc                         |                    | 🔒      |
 |--( 5 )--| 21  | [ft_containers]   | creating containers in C++ | 🔒       |     / 100 % |
-|--( 4 )--| 20  | [CPP Module 08]         | containers, iterators, algorithms| 🔒       | 100 / 100 % |
-|--( 4 )--| 19  | [CPP Module 07]          | Templates                        | 🔒       | 100 / 100 % |
-|--( 4 )--| 18  | [CPP Module 06]          | casts in CPP                     | 🔒       | 100 / 100 % |
-|--( 4 )--| 17  | [CPP Module 05]          | Try/Catch and Exceptions         | 🔒       | 100 / 100 % |
-|--( 4 )--| 16  | [CPP Module 04]          | abstract classes and interfaces  | 🔒       | 100 / 100 % |
-|--( 4 )--| 15  | [CPP Module 03]          | Inheritance                      | 🔒       | 100 / 100 % |
-|--( 4 )--| 14  | [CPP Module 02]          | Ad-hoc polymorphism, overloads   | 🔒       | 100 / 100 % |
-|--( 4 )--| 13  | [CPP Module 01]          | memory, reference, pointers      | 🔒       | 100 / 100 % |
-|--( 4 )--| 12  | [CPP Module 00]          | Creating a Class                 | 🔒       | 100 / 100 % |
+|--( 4 )--| 20  | [CPP Module 08]         | containers, iterators, algorithms| 🔒       |  / 100 % |
+|--( 4 )--| 19  | [CPP Module 07]          | Templates                        | 🔒       |  / 100 % |
+|--( 4 )--| 18  | [CPP Module 06]          | casts in CPP                     | 🔒       |  / 100 % |
+|--( 4 )--| 17  | [CPP Module 05]          | Try/Catch and Exceptions         | 🔒       |  / 100 % |
+|--( 4 )--| 16  | [CPP Module 04]          | abstract classes and interfaces  | 🔒       |  / 100 % |
+|--( 4 )--| 15  | [CPP Module 03]          | Inheritance                      | 🔒       |  / 100 % |
+|--( 4 )--| 14  | [CPP Module 02]          | Ad-hoc polymorphism, overloads   | 🔒       |  / 100 % |
+|--( 4 )--| 13  | [CPP Module 01]          | memory, reference, pointers      | 🔒       |  / 100 % |
+|--( 4 )--| 12  | [CPP Module 00]          | Creating a Class                 | 🔒       |  / 100 % |
 |--( 4 )--| 11  | [NetPractice]      | networking - IP-Masks            | 🔒      | 100 / 100 % |
 |--( 4 )--| 10  | [cub3d]                   | Raycasting 2D -> 3D              | 📝     |     / 100 % |
 |--( 3 )--|  9  | [Philosophers](../../../42_03_philosophers)  | Threads and Processes            | 📝     | --- / 100 % |
