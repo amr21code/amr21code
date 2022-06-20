@@ -24,7 +24,7 @@
 |--( 4 )--| 12  | [CPP Module 00]          | Creating a Class                 | 🔒       | 100 / 100 % |
 |--( 4 )--| 11  | [NetPractice]      | networking - IP-Masks            | 🔒      | 100 / 100 % |
 |--( 4 )--| 10  | [cub3d]                   | Raycasting 2D -> 3D              | 📝     |     / 100 % |
-|--( 3 )--|  9  | [Philosophers](../../../42_03_philosophers)  | Threads and Processes            | ✅     | 100 / 100 % |
+|--( 3 )--|  9  | [Philosophers](../../../42_03_philosophers)  | Threads and Processes            | 📝     | --- / 100 % |
 |--( 3 )--|  8  | [minishell](../../../42_03_minishell)        | like a Bash shell                | ✅     |  99 / 100 % |
 |--( 2 )--|  7  | [push_swap](../../../42_02_push_swap)        | sorting game algorythm           | ✅     | 100 / 100 % |
 |--( 2 )--|  6  | [minitalk](../../../42_02_minitalk)          | UNIX Signals SIGUSR1 & SIGUSR2   | ✅     | 100 / 100 % |    
