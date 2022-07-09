@@ -21,8 +21,8 @@
 |--( 4 )--| 15  | [CPP Module 03]          | Inheritance                      | 🔒       |  / 100 % |
 |--( 4 )--| 14  | [CPP Module 02]          | Ad-hoc polymorphism, overloads   | 🔒       |  / 100 % |
 |--( 4 )--| 13  | [CPP Module 01]          | memory, reference, pointers      | 🔒       |  / 100 % |
-|--( 4 )--| 12  | [CPP Module 00]          | Creating a Class                 | 🔒       |  / 100 % |
-|--( 4 )--| 11  | [NetPractice]      | networking - IP-Masks            | 📝      |  / 100 % |
+|--( 4 )--| 12  | [CPP Module 00]          | Creating a Class                 | 📝       |  / 100 % |
+|--( 4 )--| 11  | [NetPractice]      | networking - IP-Masks            | ✅      | 100 / 100 % |
 |--( 4 )--| 10  | [cub3d](../../../42_04_cub3d)               | Raycasting 2D -> 3D              | 📝     |     / 100 % |
 |--( 3 )--|  9  | [Philosophers](../../../42_03_philosophers)  | Threads and Processes            | ✅     | 100 / 100 % |
 |--( 3 )--|  8  | [minishell](../../../42_03_minishell)        | like a Bash shell                | ✅     |  99 / 100 % |
