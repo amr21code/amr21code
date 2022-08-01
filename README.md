@@ -20,7 +20,7 @@
 |--( 4 )--| 16  | [CPP Module 04]          | abstract classes and interfaces  | 🔒       |  / 100 % |
 |--( 4 )--| 15  | [CPP Module 03]          | Inheritance                      | 🔒       |  / 100 % |
 |--( 4 )--| 14  | [CPP Module 02](../../../42_04_cpp02)          | Ad-hoc polymorphism, overloads   | 📝       |  / 100 % |
-|--( 4 )--| 13  | [CPP Module 01](../../../42_04_cpp01)          | memory, reference, pointers      | 📝       |  / 100 % |
+|--( 4 )--| 13  | [CPP Module 01](../../../42_04_cpp01)          | memory, reference, pointers      | ✅       | 100 / 100 % |
 |--( 4 )--| 12  | [CPP Module 00](../../../42_04_cpp00)          | Creating a Class                 | ✅       | 100 / 100 % |
 |--( 4 )--| 11  | NetPractice      | networking / routing            | ✅      | 100 / 100 % |
 |--( 4 )--| 10  | [cub3d](../../../42_04_cub3d)               | Raycasting 2D -> 3D              | ✅     | 120 / 100 % |
