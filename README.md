@@ -28,7 +28,7 @@
 |--( 3 )--|  8  | [minishell](../../../42_03_minishell)        | like a Bash shell                | ✅     |  99 / 100 % |
 |--( 2 )--|  7  | [push_swap](../../../42_02_push_swap)        | sorting game algorythm           | ✅     | 100 / 100 % |
 |--( 2 )--|  6  | [minitalk](../../../42_02_minitalk)          | UNIX Signals SIGUSR1 & SIGUSR2   | ✅     | 100 / 100 % |    
-|--( 2 )--|  5  | [FdF](../../../42_02_so_long)                | 2D game (top down)               | ✅     | 110 / 100 % |    
+|--( 2 )--|  5  | [so_long](../../../42_02_so_long)                | 2D game (top down)               | ✅     | 110 / 100 % |    
 |--( 1 )--|  4  | [get_next_line](../../../42_01_get_next_line)| reading from a filedescriptor    | ✅     | 125 / 100 % |
 |--( 1 )--|  3  | [ft_printf](../../../42_01_ft_printf)        | recoded printf standard function | ✅     | 100 / 100 % |  
 |--( 1 )--|  2  | [Born2beroot]                                | virtual machine with VirtualBox  | ✅     | 100 / 100 % | 
