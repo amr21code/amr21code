@@ -13,7 +13,7 @@
 |--( 5 )--| 23  | ft_irc                         |                    | 🔒      |     / 100 %  |
 |--( 5 )--| 22  | [ft_containers]   | creating containers in C++ | 🔒       |     / 100 % |
 |--( 5 )--| 21  | [Inception](../../../42_05_inception)                      |                    | 📝      |     / 100 %  |
-|--( 4 )--| 20  | [CPP Module 08](../../../42_04_cpp08)         | containers, iterators, algorithms| 📝       |  / 100 % |
+|--( 4 )--| 20  | [CPP Module 08](../../../42_04_cpp08)         | containers, iterators, algorithms| ✅       | 100 / 100 % |
 |--( 4 )--| 19  | [CPP Module 07](../../../42_04_cpp07)          | Templates                        | ✅       | 100 / 100 % |
 |--( 4 )--| 18  | [CPP Module 06](../../../42_04_cpp06)          | casts in CPP                     | ✅       | 100 / 100 % |
 |--( 4 )--| 17  | [CPP Module 05](../../../42_04_cpp05)          | Try/Catch and Exceptions         | ✅       | 100 / 100 % |
