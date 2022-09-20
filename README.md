@@ -10,7 +10,6 @@
 | :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: |
 |--( 6 )--| 24  | ft_transcendence               |                    | 🔒      |     / 100 % |
 |--( 5 )--| 23  | [ft_containers]   | creating containers in C++ | 🔒       |     / 100 % |
-|--( 5 )--| 22  | ft_irc                         |                    | 🔒      |     / 100 %  |
 |--( 5 )--| 22  | [webserv](../../../42_05_webserv)      | small webserver from scratch                   | 📝      |     / 100 % |
 |--( 5 )--| 21  | [Inception](../../../42_05_inception)                      |                    | ✅      |  105 / 100 %  |
 |--( 4 )--| 20  | [CPP Module 08](../../../42_04_cpp08)         | containers, iterators, algorithms| ✅       | 100 / 100 % |
