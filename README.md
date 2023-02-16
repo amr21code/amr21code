@@ -8,7 +8,7 @@
 
 |  Circle | No. | Project                                     | Short Description  | Status |     Score    |
 | :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: |
-|--( 6 )--| 24  | [ft_transcendence](../../../42_06_ft_transcendence) | web based mulitplayer pong game | 📝      |     / 100 % |
+|--( 6 )--| 24  | [ft_transcendence](../../../42_06_ft_transcendence) | web based mulitplayer pong game | ✅      |   100  / 100 % |
 |--( 5 )--| 23  | [ft_containers](../../../42_05_ft_containers)   | recreating STL containers in C++ | ✅       |   100  / 100 % |
 |--( 5 )--| 22  | [webserv](../../../42_05_webserv)      | small webserver from scratch                   | ✅      |  110 / 100 % |
 |--( 5 )--| 21  | [Inception](../../../42_05_inception)                      |                    | ✅      |  105 / 100 %  |
@@ -35,7 +35,7 @@
 
 
 
-🔒
+🔒📝
 
 
 
