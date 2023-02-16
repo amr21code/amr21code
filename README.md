@@ -4,6 +4,15 @@
 
 # 42 cursus [School Page](https://42wolfsburg.de/)
 
+## Advanced Tracks
+
+|  Track | No. | Project                                     | Short Description  | Status |     Score    |
+| :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: |
+|--( AI )--| 3.2  | total-perspective-vortex |  | 🔒      |     / 100 % |
+|--( AI )--| 3.1  | multilayer-perceptron |  | 🔒      |     / 100 % |
+|--( AI )--| 2  | dslr |  | 🔒      |     / 100 % |
+|--( AI )--| 1  | linear_regression |  | 📝      |     / 100 % |
+
 ## Core Projects
 
 |  Circle | No. | Project                                     | Short Description  | Status |     Score    |
