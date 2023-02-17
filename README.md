@@ -11,7 +11,7 @@
 |--( AI )--| 3.2  | total-perspective-vortex |  | 🔒      |     / 100 % |
 |--( AI )--| 3.1  | multilayer-perceptron |  | 🔒      |     / 100 % |
 |--( AI )--| 2  | dslr |  | 🔒      |     / 100 % |
-|--( AI )--| 1  | linear_regression |  | 📝      |     / 100 % |
+|--( AI )--| 1  | [ft_linear_regression](../../../ft_linear_regression) | ML introduction with gradient decent algorithm | 📝      |     / 100 % |
 
 ## Core Projects
 
@@ -20,7 +20,7 @@
 |--( 6 )--| 24  | [ft_transcendence](../../../42_06_ft_transcendence) | web based mulitplayer pong game | ✅      |   100  / 100 % |
 |--( 5 )--| 23  | [ft_containers](../../../42_05_ft_containers)   | recreating STL containers in C++ | ✅       |   100  / 100 % |
 |--( 5 )--| 22  | [webserv](../../../42_05_webserv)      | small webserver from scratch                   | ✅      |  110 / 100 % |
-|--( 5 )--| 21  | [Inception](../../../42_05_inception)                      |                    | ✅      |  105 / 100 %  |
+|--( 5 )--| 21  | [Inception](../../../42_05_inception)                      | setting up a docker environment    | ✅      |  105 / 100 %  |
 |--( 4 )--| 20  | [CPP Module 08](../../../42_04_cpp08)         | containers, iterators, algorithms| ✅       | 100 / 100 % |
 |--( 4 )--| 19  | [CPP Module 07](../../../42_04_cpp07)          | Templates                        | ✅       | 100 / 100 % |
 |--( 4 )--| 18  | [CPP Module 06](../../../42_04_cpp06)          | casts in CPP                     | ✅       | 100 / 100 % |
