@@ -11,7 +11,7 @@
 |--( AI )--| 3.2  | total-perspective-vortex |  | 🔒      |     / 100 % |
 |--( AI )--| 3.1  | multilayer-perceptron |  | 🔒      |     / 100 % |
 |--( AI )--| 2  | dslr |  | 🔒      |     / 100 % |
-|--( AI )--| 1  | [ft_linear_regression](../../../ft_linear_regression) | ML introduction with gradient decent algorithm | 📝      |     / 100 % |
+|--( AI )--| 1  | [ft_linear_regression](../../../42_AI_ft_linear_regression) | ML introduction with gradient decent algorithm | 📝      |     / 100 % |
 
 ## Core Projects
 
